@@ -9,18 +9,18 @@ import { findLocation } from './utils';
 
 const theme = {
   light: {
-    backgroundColor: '#121416',
-    foregroundColor: '#121416',
-    titleColor: '#f9f9fa',
-    temperatureColor: '#dddddd',
-    textColor: '#cccccc',
+    backgroundColor: '#ffffff',
+    foregroundColor: '#ffffff',
+    titleColor: '#121416',
+    temperatureColor: '#121416',
+    textColor: '#121416',
   },
   dark: {
-    backgroundColor: '#121416',
-    foregroundColor: '#121416',
-    titleColor: '#f9f9fa',
-    temperatureColor: '#dddddd',
-    textColor: '#cccccc',
+    backgroundColor: '#ffffff',
+    foregroundColor: '#ffffff',
+    titleColor: '#121416',
+    temperatureColor: '#121416',
+    textColor: '#121416',
   },
 };
 
