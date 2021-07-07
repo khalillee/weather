@@ -1,0 +1,31 @@
+{
+  "name": "weather-app-set-and-save-location",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/core": "^10.1.1",
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "gh-pages": "^2.2.0",
+    "react": "16.10.1",
+    "react-dom": "16.10.1",
+    "react-scripts": "3.1.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
