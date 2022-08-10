@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-const authorizationKey = 'CWB-2A566626-C484-46C0-82B8-0AE7A8259D76';
+const authorizationKey = 'CWB-28601AF4-5AF2-4ECB-AA8D-619D4E04F4BF';
 const fetchCurrentWeather = (locationName) => {
   return fetch(
     `https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0003-001?Authorization=${authorizationKey}&locationName=${locationName}`,
